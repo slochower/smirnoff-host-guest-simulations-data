@@ -1,0 +1,21 @@
+Basic minimization with a restraint
+
+&cntrl
+        imin=1,
+        cut=1000,
+        maxcyc=10000,
+        ncyc=50,
+        drms=1E-6,
+        nmropt=1,
+        igb=6,
+        ntb=0,
+        cut=1000,
+        ntc=1,
+        ntf=1,
+/
+&wt type='DUMPFREQ', istep1=10 /
+&wt type='END'   /
+DISANG=dihedral.63.RST
+LISTIN=POUT
+LISTOUT=POUT
+DUMPAVE=jar.63.log
