@@ -59,6 +59,7 @@ old-giant-dotgit.tar
 
 copy-data-for-git.py
 
+systems/systems/a-bam-p/*
 systems/systems/a-bam-p/rsync.log
 systems/systems/a-bam-p/smirnoff/*
 !systems/systems/a-bam-p/smirnoff/*.mol2
@@ -73,6 +74,7 @@ systems/systems/a-bam-p/bg2bg2-tip3p/*
 !systems/systems/a-bam-p/bgbg-tip3p/full.crds
 !systems/systems/a-bam-p/bgbg-tip3p/full.crds
         
+systems/systems/a-bam-s/*
 systems/systems/a-bam-s/rsync.log
 systems/systems/a-bam-s/smirnoff/*
 !systems/systems/a-bam-s/smirnoff/*.mol2
@@ -87,6 +89,7 @@ systems/systems/a-bam-s/bg2bg2-tip3p/*
 !systems/systems/a-bam-s/bgbg-tip3p/full.crds
 !systems/systems/a-bam-s/bgbg-tip3p/full.crds
         
+systems/systems/a-but-p/*
 systems/systems/a-but-p/rsync.log
 systems/systems/a-but-p/smirnoff/*
 !systems/systems/a-but-p/smirnoff/*.mol2
@@ -101,6 +104,7 @@ systems/systems/a-but-p/bg2bg2-tip3p/*
 !systems/systems/a-but-p/bgbg-tip3p/full.crds
 !systems/systems/a-but-p/bgbg-tip3p/full.crds
         
+systems/systems/a-but-s/*
 systems/systems/a-but-s/rsync.log
 systems/systems/a-but-s/smirnoff/*
 !systems/systems/a-but-s/smirnoff/*.mol2
@@ -115,6 +119,7 @@ systems/systems/a-but-s/bg2bg2-tip3p/*
 !systems/systems/a-but-s/bgbg-tip3p/full.crds
 !systems/systems/a-but-s/bgbg-tip3p/full.crds
         
+systems/systems/a-cbu-p/*
 systems/systems/a-cbu-p/rsync.log
 systems/systems/a-cbu-p/smirnoff/*
 !systems/systems/a-cbu-p/smirnoff/*.mol2
@@ -129,6 +134,7 @@ systems/systems/a-cbu-p/bg2bg2-tip3p/*
 !systems/systems/a-cbu-p/bgbg-tip3p/full.crds
 !systems/systems/a-cbu-p/bgbg-tip3p/full.crds
         
+systems/systems/a-cbu-s/*
 systems/systems/a-cbu-s/rsync.log
 systems/systems/a-cbu-s/smirnoff/*
 !systems/systems/a-cbu-s/smirnoff/*.mol2
@@ -143,6 +149,7 @@ systems/systems/a-cbu-s/bg2bg2-tip3p/*
 !systems/systems/a-cbu-s/bgbg-tip3p/full.crds
 !systems/systems/a-cbu-s/bgbg-tip3p/full.crds
         
+systems/systems/a-chp-p/*
 systems/systems/a-chp-p/rsync.log
 systems/systems/a-chp-p/smirnoff/*
 !systems/systems/a-chp-p/smirnoff/*.mol2
@@ -157,6 +164,7 @@ systems/systems/a-chp-p/bg2bg2-tip3p/*
 !systems/systems/a-chp-p/bgbg-tip3p/full.crds
 !systems/systems/a-chp-p/bgbg-tip3p/full.crds
         
+systems/systems/a-chp-s/*
 systems/systems/a-chp-s/rsync.log
 systems/systems/a-chp-s/smirnoff/*
 !systems/systems/a-chp-s/smirnoff/*.mol2
@@ -171,6 +179,7 @@ systems/systems/a-chp-s/bg2bg2-tip3p/*
 !systems/systems/a-chp-s/bgbg-tip3p/full.crds
 !systems/systems/a-chp-s/bgbg-tip3p/full.crds
         
+systems/systems/a-coc-p/*
 systems/systems/a-coc-p/rsync.log
 systems/systems/a-coc-p/smirnoff/*
 !systems/systems/a-coc-p/smirnoff/*.mol2
@@ -185,6 +194,7 @@ systems/systems/a-coc-p/bg2bg2-tip3p/*
 !systems/systems/a-coc-p/bgbg-tip3p/full.crds
 !systems/systems/a-coc-p/bgbg-tip3p/full.crds
         
+systems/systems/a-coc-s/*
 systems/systems/a-coc-s/rsync.log
 systems/systems/a-coc-s/smirnoff/*
 !systems/systems/a-coc-s/smirnoff/*.mol2
@@ -199,6 +209,7 @@ systems/systems/a-coc-s/bg2bg2-tip3p/*
 !systems/systems/a-coc-s/bgbg-tip3p/full.crds
 !systems/systems/a-coc-s/bgbg-tip3p/full.crds
         
+systems/systems/a-cpe-p/*
 systems/systems/a-cpe-p/rsync.log
 systems/systems/a-cpe-p/smirnoff/*
 !systems/systems/a-cpe-p/smirnoff/*.mol2
@@ -213,6 +224,7 @@ systems/systems/a-cpe-p/bg2bg2-tip3p/*
 !systems/systems/a-cpe-p/bgbg-tip3p/full.crds
 !systems/systems/a-cpe-p/bgbg-tip3p/full.crds
         
+systems/systems/a-cpe-s/*
 systems/systems/a-cpe-s/rsync.log
 systems/systems/a-cpe-s/smirnoff/*
 !systems/systems/a-cpe-s/smirnoff/*.mol2
@@ -227,6 +239,7 @@ systems/systems/a-cpe-s/bg2bg2-tip3p/*
 !systems/systems/a-cpe-s/bgbg-tip3p/full.crds
 !systems/systems/a-cpe-s/bgbg-tip3p/full.crds
         
+systems/systems/a-ham-p/*
 systems/systems/a-ham-p/rsync.log
 systems/systems/a-ham-p/smirnoff/*
 !systems/systems/a-ham-p/smirnoff/*.mol2
@@ -241,6 +254,7 @@ systems/systems/a-ham-p/bg2bg2-tip3p/*
 !systems/systems/a-ham-p/bgbg-tip3p/full.crds
 !systems/systems/a-ham-p/bgbg-tip3p/full.crds
         
+systems/systems/a-ham-s/*
 systems/systems/a-ham-s/rsync.log
 systems/systems/a-ham-s/smirnoff/*
 !systems/systems/a-ham-s/smirnoff/*.mol2
@@ -255,6 +269,7 @@ systems/systems/a-ham-s/bg2bg2-tip3p/*
 !systems/systems/a-ham-s/bgbg-tip3p/full.crds
 !systems/systems/a-ham-s/bgbg-tip3p/full.crds
         
+systems/systems/a-hep-p/*
 systems/systems/a-hep-p/rsync.log
 systems/systems/a-hep-p/smirnoff/*
 !systems/systems/a-hep-p/smirnoff/*.mol2
@@ -269,6 +284,7 @@ systems/systems/a-hep-p/bg2bg2-tip3p/*
 !systems/systems/a-hep-p/bgbg-tip3p/full.crds
 !systems/systems/a-hep-p/bgbg-tip3p/full.crds
         
+systems/systems/a-hep-s/*
 systems/systems/a-hep-s/rsync.log
 systems/systems/a-hep-s/smirnoff/*
 !systems/systems/a-hep-s/smirnoff/*.mol2
@@ -283,6 +299,7 @@ systems/systems/a-hep-s/bg2bg2-tip3p/*
 !systems/systems/a-hep-s/bgbg-tip3p/full.crds
 !systems/systems/a-hep-s/bgbg-tip3p/full.crds
         
+systems/systems/a-hex-p/*
 systems/systems/a-hex-p/rsync.log
 systems/systems/a-hex-p/smirnoff/*
 !systems/systems/a-hex-p/smirnoff/*.mol2
@@ -297,6 +314,7 @@ systems/systems/a-hex-p/bg2bg2-tip3p/*
 !systems/systems/a-hex-p/bgbg-tip3p/full.crds
 !systems/systems/a-hex-p/bgbg-tip3p/full.crds
         
+systems/systems/a-hex-s/*
 systems/systems/a-hex-s/rsync.log
 systems/systems/a-hex-s/smirnoff/*
 !systems/systems/a-hex-s/smirnoff/*.mol2
@@ -311,6 +329,7 @@ systems/systems/a-hex-s/bg2bg2-tip3p/*
 !systems/systems/a-hex-s/bgbg-tip3p/full.crds
 !systems/systems/a-hex-s/bgbg-tip3p/full.crds
         
+systems/systems/a-hp6-p/*
 systems/systems/a-hp6-p/rsync.log
 systems/systems/a-hp6-p/smirnoff/*
 !systems/systems/a-hp6-p/smirnoff/*.mol2
@@ -325,6 +344,7 @@ systems/systems/a-hp6-p/bg2bg2-tip3p/*
 !systems/systems/a-hp6-p/bgbg-tip3p/full.crds
 !systems/systems/a-hp6-p/bgbg-tip3p/full.crds
         
+systems/systems/a-hp6-s/*
 systems/systems/a-hp6-s/rsync.log
 systems/systems/a-hp6-s/smirnoff/*
 !systems/systems/a-hp6-s/smirnoff/*.mol2
@@ -339,6 +359,7 @@ systems/systems/a-hp6-s/bg2bg2-tip3p/*
 !systems/systems/a-hp6-s/bgbg-tip3p/full.crds
 !systems/systems/a-hp6-s/bgbg-tip3p/full.crds
         
+systems/systems/a-hpa-p/*
 systems/systems/a-hpa-p/rsync.log
 systems/systems/a-hpa-p/smirnoff/*
 !systems/systems/a-hpa-p/smirnoff/*.mol2
@@ -353,6 +374,7 @@ systems/systems/a-hpa-p/bg2bg2-tip3p/*
 !systems/systems/a-hpa-p/bgbg-tip3p/full.crds
 !systems/systems/a-hpa-p/bgbg-tip3p/full.crds
         
+systems/systems/a-hpa-s/*
 systems/systems/a-hpa-s/rsync.log
 systems/systems/a-hpa-s/smirnoff/*
 !systems/systems/a-hpa-s/smirnoff/*.mol2
@@ -367,6 +389,7 @@ systems/systems/a-hpa-s/bg2bg2-tip3p/*
 !systems/systems/a-hpa-s/bgbg-tip3p/full.crds
 !systems/systems/a-hpa-s/bgbg-tip3p/full.crds
         
+systems/systems/a-hx2-p/*
 systems/systems/a-hx2-p/rsync.log
 systems/systems/a-hx2-p/smirnoff/*
 !systems/systems/a-hx2-p/smirnoff/*.mol2
@@ -381,6 +404,7 @@ systems/systems/a-hx2-p/bg2bg2-tip3p/*
 !systems/systems/a-hx2-p/bgbg-tip3p/full.crds
 !systems/systems/a-hx2-p/bgbg-tip3p/full.crds
         
+systems/systems/a-hx2-s/*
 systems/systems/a-hx2-s/rsync.log
 systems/systems/a-hx2-s/smirnoff/*
 !systems/systems/a-hx2-s/smirnoff/*.mol2
@@ -395,6 +419,7 @@ systems/systems/a-hx2-s/bg2bg2-tip3p/*
 !systems/systems/a-hx2-s/bgbg-tip3p/full.crds
 !systems/systems/a-hx2-s/bgbg-tip3p/full.crds
         
+systems/systems/a-hx3-p/*
 systems/systems/a-hx3-p/rsync.log
 systems/systems/a-hx3-p/smirnoff/*
 !systems/systems/a-hx3-p/smirnoff/*.mol2
@@ -409,6 +434,7 @@ systems/systems/a-hx3-p/bg2bg2-tip3p/*
 !systems/systems/a-hx3-p/bgbg-tip3p/full.crds
 !systems/systems/a-hx3-p/bgbg-tip3p/full.crds
         
+systems/systems/a-hx3-s/*
 systems/systems/a-hx3-s/rsync.log
 systems/systems/a-hx3-s/smirnoff/*
 !systems/systems/a-hx3-s/smirnoff/*.mol2
@@ -423,6 +449,7 @@ systems/systems/a-hx3-s/bg2bg2-tip3p/*
 !systems/systems/a-hx3-s/bgbg-tip3p/full.crds
 !systems/systems/a-hx3-s/bgbg-tip3p/full.crds
         
+systems/systems/a-mba-p/*
 systems/systems/a-mba-p/rsync.log
 systems/systems/a-mba-p/smirnoff/*
 !systems/systems/a-mba-p/smirnoff/*.mol2
@@ -437,6 +464,7 @@ systems/systems/a-mba-p/bg2bg2-tip3p/*
 !systems/systems/a-mba-p/bgbg-tip3p/full.crds
 !systems/systems/a-mba-p/bgbg-tip3p/full.crds
         
+systems/systems/a-mba-s/*
 systems/systems/a-mba-s/rsync.log
 systems/systems/a-mba-s/smirnoff/*
 !systems/systems/a-mba-s/smirnoff/*.mol2
@@ -451,6 +479,7 @@ systems/systems/a-mba-s/bg2bg2-tip3p/*
 !systems/systems/a-mba-s/bgbg-tip3p/full.crds
 !systems/systems/a-mba-s/bgbg-tip3p/full.crds
         
+systems/systems/a-mha-p/*
 systems/systems/a-mha-p/rsync.log
 systems/systems/a-mha-p/smirnoff/*
 !systems/systems/a-mha-p/smirnoff/*.mol2
@@ -465,6 +494,7 @@ systems/systems/a-mha-p/bg2bg2-tip3p/*
 !systems/systems/a-mha-p/bgbg-tip3p/full.crds
 !systems/systems/a-mha-p/bgbg-tip3p/full.crds
         
+systems/systems/a-mha-s/*
 systems/systems/a-mha-s/rsync.log
 systems/systems/a-mha-s/smirnoff/*
 !systems/systems/a-mha-s/smirnoff/*.mol2
@@ -479,6 +509,7 @@ systems/systems/a-mha-s/bg2bg2-tip3p/*
 !systems/systems/a-mha-s/bgbg-tip3p/full.crds
 !systems/systems/a-mha-s/bgbg-tip3p/full.crds
         
+systems/systems/a-mhp-p/*
 systems/systems/a-mhp-p/rsync.log
 systems/systems/a-mhp-p/smirnoff/*
 !systems/systems/a-mhp-p/smirnoff/*.mol2
@@ -493,6 +524,7 @@ systems/systems/a-mhp-p/bg2bg2-tip3p/*
 !systems/systems/a-mhp-p/bgbg-tip3p/full.crds
 !systems/systems/a-mhp-p/bgbg-tip3p/full.crds
         
+systems/systems/a-mhp-s/*
 systems/systems/a-mhp-s/rsync.log
 systems/systems/a-mhp-s/smirnoff/*
 !systems/systems/a-mhp-s/smirnoff/*.mol2
@@ -507,6 +539,7 @@ systems/systems/a-mhp-s/bg2bg2-tip3p/*
 !systems/systems/a-mhp-s/bgbg-tip3p/full.crds
 !systems/systems/a-mhp-s/bgbg-tip3p/full.crds
         
+systems/systems/a-nmb-p/*
 systems/systems/a-nmb-p/rsync.log
 systems/systems/a-nmb-p/smirnoff/*
 !systems/systems/a-nmb-p/smirnoff/*.mol2
@@ -521,6 +554,7 @@ systems/systems/a-nmb-p/bg2bg2-tip3p/*
 !systems/systems/a-nmb-p/bgbg-tip3p/full.crds
 !systems/systems/a-nmb-p/bgbg-tip3p/full.crds
         
+systems/systems/a-nmb-s/*
 systems/systems/a-nmb-s/rsync.log
 systems/systems/a-nmb-s/smirnoff/*
 !systems/systems/a-nmb-s/smirnoff/*.mol2
@@ -535,6 +569,7 @@ systems/systems/a-nmb-s/bg2bg2-tip3p/*
 !systems/systems/a-nmb-s/bgbg-tip3p/full.crds
 !systems/systems/a-nmb-s/bgbg-tip3p/full.crds
         
+systems/systems/a-nmh-p/*
 systems/systems/a-nmh-p/rsync.log
 systems/systems/a-nmh-p/smirnoff/*
 !systems/systems/a-nmh-p/smirnoff/*.mol2
@@ -549,6 +584,7 @@ systems/systems/a-nmh-p/bg2bg2-tip3p/*
 !systems/systems/a-nmh-p/bgbg-tip3p/full.crds
 !systems/systems/a-nmh-p/bgbg-tip3p/full.crds
         
+systems/systems/a-nmh-s/*
 systems/systems/a-nmh-s/rsync.log
 systems/systems/a-nmh-s/smirnoff/*
 !systems/systems/a-nmh-s/smirnoff/*.mol2
@@ -563,6 +599,7 @@ systems/systems/a-nmh-s/bg2bg2-tip3p/*
 !systems/systems/a-nmh-s/bgbg-tip3p/full.crds
 !systems/systems/a-nmh-s/bgbg-tip3p/full.crds
         
+systems/systems/a-oam-p/*
 systems/systems/a-oam-p/rsync.log
 systems/systems/a-oam-p/smirnoff/*
 !systems/systems/a-oam-p/smirnoff/*.mol2
@@ -577,6 +614,7 @@ systems/systems/a-oam-p/bg2bg2-tip3p/*
 !systems/systems/a-oam-p/bgbg-tip3p/full.crds
 !systems/systems/a-oam-p/bgbg-tip3p/full.crds
         
+systems/systems/a-oam-s/*
 systems/systems/a-oam-s/rsync.log
 systems/systems/a-oam-s/smirnoff/*
 !systems/systems/a-oam-s/smirnoff/*.mol2
@@ -591,6 +629,7 @@ systems/systems/a-oam-s/bg2bg2-tip3p/*
 !systems/systems/a-oam-s/bgbg-tip3p/full.crds
 !systems/systems/a-oam-s/bgbg-tip3p/full.crds
         
+systems/systems/a-oct-p/*
 systems/systems/a-oct-p/rsync.log
 systems/systems/a-oct-p/smirnoff/*
 !systems/systems/a-oct-p/smirnoff/*.mol2
@@ -605,6 +644,7 @@ systems/systems/a-oct-p/bg2bg2-tip3p/*
 !systems/systems/a-oct-p/bgbg-tip3p/full.crds
 !systems/systems/a-oct-p/bgbg-tip3p/full.crds
         
+systems/systems/a-oct-s/*
 systems/systems/a-oct-s/rsync.log
 systems/systems/a-oct-s/smirnoff/*
 !systems/systems/a-oct-s/smirnoff/*.mol2
@@ -619,6 +659,7 @@ systems/systems/a-oct-s/bg2bg2-tip3p/*
 !systems/systems/a-oct-s/bgbg-tip3p/full.crds
 !systems/systems/a-oct-s/bgbg-tip3p/full.crds
         
+systems/systems/a-pam-p/*
 systems/systems/a-pam-p/rsync.log
 systems/systems/a-pam-p/smirnoff/*
 !systems/systems/a-pam-p/smirnoff/*.mol2
@@ -633,6 +674,7 @@ systems/systems/a-pam-p/bg2bg2-tip3p/*
 !systems/systems/a-pam-p/bgbg-tip3p/full.crds
 !systems/systems/a-pam-p/bgbg-tip3p/full.crds
         
+systems/systems/a-pam-s/*
 systems/systems/a-pam-s/rsync.log
 systems/systems/a-pam-s/smirnoff/*
 !systems/systems/a-pam-s/smirnoff/*.mol2
@@ -647,6 +689,7 @@ systems/systems/a-pam-s/bg2bg2-tip3p/*
 !systems/systems/a-pam-s/bgbg-tip3p/full.crds
 !systems/systems/a-pam-s/bgbg-tip3p/full.crds
         
+systems/systems/a-pnt-p/*
 systems/systems/a-pnt-p/rsync.log
 systems/systems/a-pnt-p/smirnoff/*
 !systems/systems/a-pnt-p/smirnoff/*.mol2
@@ -661,6 +704,7 @@ systems/systems/a-pnt-p/bg2bg2-tip3p/*
 !systems/systems/a-pnt-p/bgbg-tip3p/full.crds
 !systems/systems/a-pnt-p/bgbg-tip3p/full.crds
         
+systems/systems/a-pnt-s/*
 systems/systems/a-pnt-s/rsync.log
 systems/systems/a-pnt-s/smirnoff/*
 !systems/systems/a-pnt-s/smirnoff/*.mol2
@@ -675,6 +719,7 @@ systems/systems/a-pnt-s/bg2bg2-tip3p/*
 !systems/systems/a-pnt-s/bgbg-tip3p/full.crds
 !systems/systems/a-pnt-s/bgbg-tip3p/full.crds
         
+systems/systems/a-release/*
 systems/systems/a-release/rsync.log
 systems/systems/a-release/smirnoff/*
 !systems/systems/a-release/smirnoff/*.mol2
@@ -689,6 +734,7 @@ systems/systems/a-release/bg2bg2-tip3p/*
 !systems/systems/a-release/bgbg-tip3p/full.crds
 !systems/systems/a-release/bgbg-tip3p/full.crds
         
+systems/systems/b-ben-p/*
 systems/systems/b-ben-p/rsync.log
 systems/systems/b-ben-p/smirnoff/*
 !systems/systems/b-ben-p/smirnoff/*.mol2
@@ -703,6 +749,7 @@ systems/systems/b-ben-p/bg2bg2-tip3p/*
 !systems/systems/b-ben-p/bgbg-tip3p/full.crds
 !systems/systems/b-ben-p/bgbg-tip3p/full.crds
         
+systems/systems/b-ben-s/*
 systems/systems/b-ben-s/rsync.log
 systems/systems/b-ben-s/smirnoff/*
 !systems/systems/b-ben-s/smirnoff/*.mol2
@@ -717,6 +764,7 @@ systems/systems/b-ben-s/bg2bg2-tip3p/*
 !systems/systems/b-ben-s/bgbg-tip3p/full.crds
 !systems/systems/b-ben-s/bgbg-tip3p/full.crds
         
+systems/systems/b-cbu-p/*
 systems/systems/b-cbu-p/rsync.log
 systems/systems/b-cbu-p/smirnoff/*
 !systems/systems/b-cbu-p/smirnoff/*.mol2
@@ -731,6 +779,7 @@ systems/systems/b-cbu-p/bg2bg2-tip3p/*
 !systems/systems/b-cbu-p/bgbg-tip3p/full.crds
 !systems/systems/b-cbu-p/bgbg-tip3p/full.crds
         
+systems/systems/b-cbu-s/*
 systems/systems/b-cbu-s/rsync.log
 systems/systems/b-cbu-s/smirnoff/*
 !systems/systems/b-cbu-s/smirnoff/*.mol2
@@ -745,6 +794,7 @@ systems/systems/b-cbu-s/bg2bg2-tip3p/*
 !systems/systems/b-cbu-s/bgbg-tip3p/full.crds
 !systems/systems/b-cbu-s/bgbg-tip3p/full.crds
         
+systems/systems/b-chp-p/*
 systems/systems/b-chp-p/rsync.log
 systems/systems/b-chp-p/smirnoff/*
 !systems/systems/b-chp-p/smirnoff/*.mol2
@@ -759,6 +809,7 @@ systems/systems/b-chp-p/bg2bg2-tip3p/*
 !systems/systems/b-chp-p/bgbg-tip3p/full.crds
 !systems/systems/b-chp-p/bgbg-tip3p/full.crds
         
+systems/systems/b-chp-s/*
 systems/systems/b-chp-s/rsync.log
 systems/systems/b-chp-s/smirnoff/*
 !systems/systems/b-chp-s/smirnoff/*.mol2
@@ -773,6 +824,7 @@ systems/systems/b-chp-s/bg2bg2-tip3p/*
 !systems/systems/b-chp-s/bgbg-tip3p/full.crds
 !systems/systems/b-chp-s/bgbg-tip3p/full.crds
         
+systems/systems/b-coc-p/*
 systems/systems/b-coc-p/rsync.log
 systems/systems/b-coc-p/smirnoff/*
 !systems/systems/b-coc-p/smirnoff/*.mol2
@@ -787,6 +839,7 @@ systems/systems/b-coc-p/bg2bg2-tip3p/*
 !systems/systems/b-coc-p/bgbg-tip3p/full.crds
 !systems/systems/b-coc-p/bgbg-tip3p/full.crds
         
+systems/systems/b-coc-s/*
 systems/systems/b-coc-s/rsync.log
 systems/systems/b-coc-s/smirnoff/*
 !systems/systems/b-coc-s/smirnoff/*.mol2
@@ -801,6 +854,7 @@ systems/systems/b-coc-s/bg2bg2-tip3p/*
 !systems/systems/b-coc-s/bgbg-tip3p/full.crds
 !systems/systems/b-coc-s/bgbg-tip3p/full.crds
         
+systems/systems/b-cpe-p/*
 systems/systems/b-cpe-p/rsync.log
 systems/systems/b-cpe-p/smirnoff/*
 !systems/systems/b-cpe-p/smirnoff/*.mol2
@@ -815,6 +869,7 @@ systems/systems/b-cpe-p/bg2bg2-tip3p/*
 !systems/systems/b-cpe-p/bgbg-tip3p/full.crds
 !systems/systems/b-cpe-p/bgbg-tip3p/full.crds
         
+systems/systems/b-cpe-s/*
 systems/systems/b-cpe-s/rsync.log
 systems/systems/b-cpe-s/smirnoff/*
 !systems/systems/b-cpe-s/smirnoff/*.mol2
@@ -829,6 +884,7 @@ systems/systems/b-cpe-s/bg2bg2-tip3p/*
 !systems/systems/b-cpe-s/bgbg-tip3p/full.crds
 !systems/systems/b-cpe-s/bgbg-tip3p/full.crds
         
+systems/systems/b-ham-p/*
 systems/systems/b-ham-p/rsync.log
 systems/systems/b-ham-p/smirnoff/*
 !systems/systems/b-ham-p/smirnoff/*.mol2
@@ -843,6 +899,7 @@ systems/systems/b-ham-p/bg2bg2-tip3p/*
 !systems/systems/b-ham-p/bgbg-tip3p/full.crds
 !systems/systems/b-ham-p/bgbg-tip3p/full.crds
         
+systems/systems/b-ham-s/*
 systems/systems/b-ham-s/rsync.log
 systems/systems/b-ham-s/smirnoff/*
 !systems/systems/b-ham-s/smirnoff/*.mol2
@@ -857,6 +914,7 @@ systems/systems/b-ham-s/bg2bg2-tip3p/*
 !systems/systems/b-ham-s/bgbg-tip3p/full.crds
 !systems/systems/b-ham-s/bgbg-tip3p/full.crds
         
+systems/systems/b-hep-p/*
 systems/systems/b-hep-p/rsync.log
 systems/systems/b-hep-p/smirnoff/*
 !systems/systems/b-hep-p/smirnoff/*.mol2
@@ -871,6 +929,7 @@ systems/systems/b-hep-p/bg2bg2-tip3p/*
 !systems/systems/b-hep-p/bgbg-tip3p/full.crds
 !systems/systems/b-hep-p/bgbg-tip3p/full.crds
         
+systems/systems/b-hep-s/*
 systems/systems/b-hep-s/rsync.log
 systems/systems/b-hep-s/smirnoff/*
 !systems/systems/b-hep-s/smirnoff/*.mol2
@@ -885,6 +944,7 @@ systems/systems/b-hep-s/bg2bg2-tip3p/*
 !systems/systems/b-hep-s/bgbg-tip3p/full.crds
 !systems/systems/b-hep-s/bgbg-tip3p/full.crds
         
+systems/systems/b-hex-p/*
 systems/systems/b-hex-p/rsync.log
 systems/systems/b-hex-p/smirnoff/*
 !systems/systems/b-hex-p/smirnoff/*.mol2
@@ -899,6 +959,7 @@ systems/systems/b-hex-p/bg2bg2-tip3p/*
 !systems/systems/b-hex-p/bgbg-tip3p/full.crds
 !systems/systems/b-hex-p/bgbg-tip3p/full.crds
         
+systems/systems/b-hex-s/*
 systems/systems/b-hex-s/rsync.log
 systems/systems/b-hex-s/smirnoff/*
 !systems/systems/b-hex-s/smirnoff/*.mol2
@@ -913,6 +974,7 @@ systems/systems/b-hex-s/bg2bg2-tip3p/*
 !systems/systems/b-hex-s/bgbg-tip3p/full.crds
 !systems/systems/b-hex-s/bgbg-tip3p/full.crds
         
+systems/systems/b-m4c-p/*
 systems/systems/b-m4c-p/rsync.log
 systems/systems/b-m4c-p/smirnoff/*
 !systems/systems/b-m4c-p/smirnoff/*.mol2
@@ -927,6 +989,7 @@ systems/systems/b-m4c-p/bg2bg2-tip3p/*
 !systems/systems/b-m4c-p/bgbg-tip3p/full.crds
 !systems/systems/b-m4c-p/bgbg-tip3p/full.crds
         
+systems/systems/b-m4c-s/*
 systems/systems/b-m4c-s/rsync.log
 systems/systems/b-m4c-s/smirnoff/*
 !systems/systems/b-m4c-s/smirnoff/*.mol2
@@ -941,6 +1004,7 @@ systems/systems/b-m4c-s/bg2bg2-tip3p/*
 !systems/systems/b-m4c-s/bgbg-tip3p/full.crds
 !systems/systems/b-m4c-s/bgbg-tip3p/full.crds
         
+systems/systems/b-m4t-p/*
 systems/systems/b-m4t-p/rsync.log
 systems/systems/b-m4t-p/smirnoff/*
 !systems/systems/b-m4t-p/smirnoff/*.mol2
@@ -955,6 +1019,7 @@ systems/systems/b-m4t-p/bg2bg2-tip3p/*
 !systems/systems/b-m4t-p/bgbg-tip3p/full.crds
 !systems/systems/b-m4t-p/bgbg-tip3p/full.crds
         
+systems/systems/b-m4t-s/*
 systems/systems/b-m4t-s/rsync.log
 systems/systems/b-m4t-s/smirnoff/*
 !systems/systems/b-m4t-s/smirnoff/*.mol2
@@ -969,6 +1034,7 @@ systems/systems/b-m4t-s/bg2bg2-tip3p/*
 !systems/systems/b-m4t-s/bgbg-tip3p/full.crds
 !systems/systems/b-m4t-s/bgbg-tip3p/full.crds
         
+systems/systems/b-mch-p/*
 systems/systems/b-mch-p/rsync.log
 systems/systems/b-mch-p/smirnoff/*
 !systems/systems/b-mch-p/smirnoff/*.mol2
@@ -983,6 +1049,7 @@ systems/systems/b-mch-p/bg2bg2-tip3p/*
 !systems/systems/b-mch-p/bgbg-tip3p/full.crds
 !systems/systems/b-mch-p/bgbg-tip3p/full.crds
         
+systems/systems/b-mch-s/*
 systems/systems/b-mch-s/rsync.log
 systems/systems/b-mch-s/smirnoff/*
 !systems/systems/b-mch-s/smirnoff/*.mol2
@@ -997,6 +1064,7 @@ systems/systems/b-mch-s/bg2bg2-tip3p/*
 !systems/systems/b-mch-s/bgbg-tip3p/full.crds
 !systems/systems/b-mch-s/bgbg-tip3p/full.crds
         
+systems/systems/b-mha-p/*
 systems/systems/b-mha-p/rsync.log
 systems/systems/b-mha-p/smirnoff/*
 !systems/systems/b-mha-p/smirnoff/*.mol2
@@ -1011,6 +1079,7 @@ systems/systems/b-mha-p/bg2bg2-tip3p/*
 !systems/systems/b-mha-p/bgbg-tip3p/full.crds
 !systems/systems/b-mha-p/bgbg-tip3p/full.crds
         
+systems/systems/b-mha-s/*
 systems/systems/b-mha-s/rsync.log
 systems/systems/b-mha-s/smirnoff/*
 !systems/systems/b-mha-s/smirnoff/*.mol2
@@ -1025,6 +1094,7 @@ systems/systems/b-mha-s/bg2bg2-tip3p/*
 !systems/systems/b-mha-s/bgbg-tip3p/full.crds
 !systems/systems/b-mha-s/bgbg-tip3p/full.crds
         
+systems/systems/b-mo3-p/*
 systems/systems/b-mo3-p/rsync.log
 systems/systems/b-mo3-p/smirnoff/*
 !systems/systems/b-mo3-p/smirnoff/*.mol2
@@ -1039,6 +1109,7 @@ systems/systems/b-mo3-p/bg2bg2-tip3p/*
 !systems/systems/b-mo3-p/bgbg-tip3p/full.crds
 !systems/systems/b-mo3-p/bgbg-tip3p/full.crds
         
+systems/systems/b-mo3-s/*
 systems/systems/b-mo3-s/rsync.log
 systems/systems/b-mo3-s/smirnoff/*
 !systems/systems/b-mo3-s/smirnoff/*.mol2
@@ -1053,6 +1124,7 @@ systems/systems/b-mo3-s/bg2bg2-tip3p/*
 !systems/systems/b-mo3-s/bgbg-tip3p/full.crds
 !systems/systems/b-mo3-s/bgbg-tip3p/full.crds
         
+systems/systems/b-mo4-p/*
 systems/systems/b-mo4-p/rsync.log
 systems/systems/b-mo4-p/smirnoff/*
 !systems/systems/b-mo4-p/smirnoff/*.mol2
@@ -1067,6 +1139,7 @@ systems/systems/b-mo4-p/bg2bg2-tip3p/*
 !systems/systems/b-mo4-p/bgbg-tip3p/full.crds
 !systems/systems/b-mo4-p/bgbg-tip3p/full.crds
         
+systems/systems/b-mo4-s/*
 systems/systems/b-mo4-s/rsync.log
 systems/systems/b-mo4-s/smirnoff/*
 !systems/systems/b-mo4-s/smirnoff/*.mol2
@@ -1081,6 +1154,7 @@ systems/systems/b-mo4-s/bg2bg2-tip3p/*
 !systems/systems/b-mo4-s/bgbg-tip3p/full.crds
 !systems/systems/b-mo4-s/bgbg-tip3p/full.crds
         
+systems/systems/b-mp3-p/*
 systems/systems/b-mp3-p/rsync.log
 systems/systems/b-mp3-p/smirnoff/*
 !systems/systems/b-mp3-p/smirnoff/*.mol2
@@ -1095,6 +1169,7 @@ systems/systems/b-mp3-p/bg2bg2-tip3p/*
 !systems/systems/b-mp3-p/bgbg-tip3p/full.crds
 !systems/systems/b-mp3-p/bgbg-tip3p/full.crds
         
+systems/systems/b-mp3-s/*
 systems/systems/b-mp3-s/rsync.log
 systems/systems/b-mp3-s/smirnoff/*
 !systems/systems/b-mp3-s/smirnoff/*.mol2
@@ -1109,6 +1184,7 @@ systems/systems/b-mp3-s/bg2bg2-tip3p/*
 !systems/systems/b-mp3-s/bgbg-tip3p/full.crds
 !systems/systems/b-mp3-s/bgbg-tip3p/full.crds
         
+systems/systems/b-mp4-p/*
 systems/systems/b-mp4-p/rsync.log
 systems/systems/b-mp4-p/smirnoff/*
 !systems/systems/b-mp4-p/smirnoff/*.mol2
@@ -1123,6 +1199,7 @@ systems/systems/b-mp4-p/bg2bg2-tip3p/*
 !systems/systems/b-mp4-p/bgbg-tip3p/full.crds
 !systems/systems/b-mp4-p/bgbg-tip3p/full.crds
         
+systems/systems/b-mp4-s/*
 systems/systems/b-mp4-s/rsync.log
 systems/systems/b-mp4-s/smirnoff/*
 !systems/systems/b-mp4-s/smirnoff/*.mol2
@@ -1137,6 +1214,7 @@ systems/systems/b-mp4-s/bg2bg2-tip3p/*
 !systems/systems/b-mp4-s/bgbg-tip3p/full.crds
 !systems/systems/b-mp4-s/bgbg-tip3p/full.crds
         
+systems/systems/b-oam-p/*
 systems/systems/b-oam-p/rsync.log
 systems/systems/b-oam-p/smirnoff/*
 !systems/systems/b-oam-p/smirnoff/*.mol2
@@ -1151,6 +1229,7 @@ systems/systems/b-oam-p/bg2bg2-tip3p/*
 !systems/systems/b-oam-p/bgbg-tip3p/full.crds
 !systems/systems/b-oam-p/bgbg-tip3p/full.crds
         
+systems/systems/b-oam-s/*
 systems/systems/b-oam-s/rsync.log
 systems/systems/b-oam-s/smirnoff/*
 !systems/systems/b-oam-s/smirnoff/*.mol2
@@ -1165,6 +1244,7 @@ systems/systems/b-oam-s/bg2bg2-tip3p/*
 !systems/systems/b-oam-s/bgbg-tip3p/full.crds
 !systems/systems/b-oam-s/bgbg-tip3p/full.crds
         
+systems/systems/b-pb3-p/*
 systems/systems/b-pb3-p/rsync.log
 systems/systems/b-pb3-p/smirnoff/*
 !systems/systems/b-pb3-p/smirnoff/*.mol2
@@ -1179,6 +1259,7 @@ systems/systems/b-pb3-p/bg2bg2-tip3p/*
 !systems/systems/b-pb3-p/bgbg-tip3p/full.crds
 !systems/systems/b-pb3-p/bgbg-tip3p/full.crds
         
+systems/systems/b-pb3-s/*
 systems/systems/b-pb3-s/rsync.log
 systems/systems/b-pb3-s/smirnoff/*
 !systems/systems/b-pb3-s/smirnoff/*.mol2
@@ -1193,6 +1274,7 @@ systems/systems/b-pb3-s/bg2bg2-tip3p/*
 !systems/systems/b-pb3-s/bgbg-tip3p/full.crds
 !systems/systems/b-pb3-s/bgbg-tip3p/full.crds
         
+systems/systems/b-pb4-p/*
 systems/systems/b-pb4-p/rsync.log
 systems/systems/b-pb4-p/smirnoff/*
 !systems/systems/b-pb4-p/smirnoff/*.mol2
@@ -1207,6 +1289,7 @@ systems/systems/b-pb4-p/bg2bg2-tip3p/*
 !systems/systems/b-pb4-p/bgbg-tip3p/full.crds
 !systems/systems/b-pb4-p/bgbg-tip3p/full.crds
         
+systems/systems/b-pb4-s/*
 systems/systems/b-pb4-s/rsync.log
 systems/systems/b-pb4-s/smirnoff/*
 !systems/systems/b-pb4-s/smirnoff/*.mol2
@@ -1221,6 +1304,7 @@ systems/systems/b-pb4-s/bg2bg2-tip3p/*
 !systems/systems/b-pb4-s/bgbg-tip3p/full.crds
 !systems/systems/b-pb4-s/bgbg-tip3p/full.crds
         
+systems/systems/b-pha-p/*
 systems/systems/b-pha-p/rsync.log
 systems/systems/b-pha-p/smirnoff/*
 !systems/systems/b-pha-p/smirnoff/*.mol2
@@ -1235,6 +1319,7 @@ systems/systems/b-pha-p/bg2bg2-tip3p/*
 !systems/systems/b-pha-p/bgbg-tip3p/full.crds
 !systems/systems/b-pha-p/bgbg-tip3p/full.crds
         
+systems/systems/b-pha-s/*
 systems/systems/b-pha-s/rsync.log
 systems/systems/b-pha-s/smirnoff/*
 !systems/systems/b-pha-s/smirnoff/*.mol2
@@ -1249,6 +1334,7 @@ systems/systems/b-pha-s/bg2bg2-tip3p/*
 !systems/systems/b-pha-s/bgbg-tip3p/full.crds
 !systems/systems/b-pha-s/bgbg-tip3p/full.crds
         
+systems/systems/b-pnt-p/*
 systems/systems/b-pnt-p/rsync.log
 systems/systems/b-pnt-p/smirnoff/*
 !systems/systems/b-pnt-p/smirnoff/*.mol2
@@ -1263,6 +1349,7 @@ systems/systems/b-pnt-p/bg2bg2-tip3p/*
 !systems/systems/b-pnt-p/bgbg-tip3p/full.crds
 !systems/systems/b-pnt-p/bgbg-tip3p/full.crds
         
+systems/systems/b-pnt-s/*
 systems/systems/b-pnt-s/rsync.log
 systems/systems/b-pnt-s/smirnoff/*
 !systems/systems/b-pnt-s/smirnoff/*.mol2
@@ -1277,6 +1364,7 @@ systems/systems/b-pnt-s/bg2bg2-tip3p/*
 !systems/systems/b-pnt-s/bgbg-tip3p/full.crds
 !systems/systems/b-pnt-s/bgbg-tip3p/full.crds
         
+systems/systems/b-release/*
 systems/systems/b-release/rsync.log
 systems/systems/b-release/smirnoff/*
 !systems/systems/b-release/smirnoff/*.mol2
