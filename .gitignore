@@ -59,6 +59,8 @@ old-giant-dotgit.tar
 
 copy-data-for-git.py
 
+# Need this to unignore subdirectories
+!*/
 
 !systems/a-bam-p/smirnoff/*.mol2
 !systems/a-bam-p/smirnoff/smirnoff.prmtop
