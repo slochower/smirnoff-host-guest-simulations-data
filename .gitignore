@@ -57,6 +57,8 @@ Thumbs.db
 # Giant .git that caused all sorts of woes...
 old-giant-dotgit.tar
 
+copy-data-for-git.py
+
 systems/systems/a-bam-p/rsync.log
 systems/systems/a-bam-p/smirnoff/*
 !systems/systems/a-bam-p/smirnoff/*.mol2
