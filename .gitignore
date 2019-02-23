@@ -51,7 +51,6 @@ Thumbs.db
 # Simulation files in this folder...
 .ipynb_checkpoints
 
-
 # Giant .git that caused all sorts of woes...
 old-giant-dotgit.tar
 
