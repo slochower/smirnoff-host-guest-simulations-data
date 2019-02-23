@@ -2,17 +2,18 @@ import os
 from glob import glob
 
 systems = sorted(glob("systems/*"))
-with open(".gitignore", "a") as file:
-    for system in systems:
+for system in systems:
+    with open(os.path.join(system, ".gitignore"), "a") as file:
         gitignore_lines = f"""
-!{system}/smirnoff/*.mol2
-!{system}/smirnoff/smirnoff.prmtop
-!{system}/smirnoff/smirnoff.inpcrd
+*
+!smirnoff/*.mol2
+!smirnoff/smirnoff.prmtop
+!smirnoff/smirnoff.inpcrd
 
-!{system}/bgbg-tip3p/full.crds
-!{system}/bgbg-tip3p/full.crds
+!bgbg-tip3p/full.crds
+!bgbg-tip3p/full.crds
 
-!{system}/bgbg-tip3p/full.crds
-!{system}/bgbg-tip3p/full.crds
+!bgbg-tip3p/full.crds
+!bgbg-tip3p/full.crds
         """
         file.write(gitignore_lines)
