@@ -52,7 +52,7 @@ Thumbs.db
 .ipynb_checkpoints
 
 # Ignore all simulation stuff, for the time-being.
-systems/
+# systems/
 
 # Giant .git that caused all sorts of woes...
 old-giant-dotgit.tar

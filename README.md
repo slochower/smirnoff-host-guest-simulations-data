@@ -4,3 +4,6 @@ After dealing with a giant `.git` folder that really gunked up the works, I deci
 # To do
 - Add a manifest
 - Make sure notebooks and scripts are now self-consistent
+- Where is the raw "raw" data?
+
+This is a partial copy of the data files!
