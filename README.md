@@ -3,8 +3,10 @@
 This repository contains files to convert host-guest coordinates and topology files from the GAFF force field to the SMIRNOFF99Frosst force field, setup the calculation, and run the simulations. 
 
 ## Introduction
+For the most direct comparison between force fields, we wanted to reuse existing files -- including exact coordinates -- that were previously used for GAFF v1.7 host-guest binding free energy calculations with APR in [Henriksen, et al. (2017)](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.7b00359). This entailed writing a module to convert the parameters by separating the host and guest, dummy atoms, and solvent plus ions, parameterizing the host and guest using SMIRNOFF99Frosst, and then combining the structures. This task is accomplished in `setup/process.py`. Finally, we prepare and analyze the binding free energy simulations using our open source toolbox, `paprika`.
 
 ## Testing and caveats
+Not shown in this repository, I used this pipeline to re-run the GAFF v1.7 calculations on a sample of systems to determine that preparing the calculations using `paprika` (in place of the old system of scripts), writing the input files using `simulate.py` and analyzing the calculations using `analyze.py` are able to reproduce the published results within the statistical uncertainty.
 
 ## Manifest
 - `analysis`/: Contains files to compute the free energy of binding and enthalpy of binding after the simulations are completed. Some of the functions written into these files have been incorporated into pAPRika v0.0.4. *N.B.* I moved some of these into the `analysis` subdirectory after running them, and therefore, some paths will need to be updated for re-analysis. Several of the functions in the analysis scripts can be performed in a much more straight-forward way now (for example: by saving system restraints as JSON).
