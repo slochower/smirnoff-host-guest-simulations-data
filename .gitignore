@@ -56,3 +56,5 @@ old-giant-dotgit.tar
 
 copy-data-for-git.py
 
+# Don't need to keep copies of rsync files with local paths
+rsync*

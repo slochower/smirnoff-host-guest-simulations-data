@@ -14,12 +14,10 @@ smirnoff/*
 
 !bgbg-tip3p/
 bgbg-tip3p/*
-!bgbg-tip3p/full.crds
-!bgbg-tip3p/full.crds
+!bgbg-tip3p/full.hmr.topo
 
 !bg2bg2-tip3p/
 bg2bg2-tip3p/*
-!bg2bg2-tip3p/full.crds
-!bg2bg2-tip3p/full.crds
+!bg2bg2-tip3p/full.hmr.topo
         """
         file.write(gitignore_lines)
