@@ -18,6 +18,6 @@ bgbg-tip3p/*
 
 !bg2bg2-tip3p/
 bg2bg2-tip3p/*
-!bg2bg2-tip3p/full.hmr.crds
+!bg2bg2-tip3p/full.hmr.topo
         """
         file.write(gitignore_lines)
