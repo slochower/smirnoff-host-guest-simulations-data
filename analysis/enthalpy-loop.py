@@ -100,11 +100,7 @@ for ff in ["bgbg_tip3p", "smirnoff"]:
     for system in systems:
 
         print("Running python analyze.py --name {} --forcefield {}".format(system, ff))
-<<<<<<< HEAD
         p = sp.Popen(["python enthalpy.py --name {} --forcefield {}".format(system, ff)], shell=True)
-=======
-        p = sp.Popen(["python enthalpy-components.py --name {} --forcefield {}".format(system, ff)], shell=True)
->>>>>>> refs/remotes/origin/master
         # p.wait()
         counter += 1
         # if counter % 24 == 0:
